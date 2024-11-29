@@ -1,0 +1,45 @@
+.cabecalho {
+  border-radius: 15px;
+  background-color: chartreuse;
+  box-shadow: 2px 4px 8px black;
+}
+
+.container-fluid {
+  display: flex;
+  padding: 20px;
+}
+
+.navbar-nav {
+  margin-left: 0px;
+  padding: 40px;
+}
+
+.navbar-brand {
+  margin: 20px 0px 0px 700px;
+  padding-top: 20px;
+}
+
+.nav-link {
+  margin-left: 30px;
+}
+
+.imagens{
+  margin-left: 50px;
+}
+
+.conteudos {
+  margin-top: 50px;
+  padding: 30px ;
+  box-shadow: 2px 4px 8px black;
+  border-radius: 15px;
+  background-color: chartreuse;
+  grid-row: auto;
+}
+
+html {
+  background-color: purple;
+}
+
+.conteudos h1, h2 {
+  text-align: center;
+}
